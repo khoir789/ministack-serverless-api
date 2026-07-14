@@ -1,6 +1,7 @@
-MiniStack Serverless API
-Serverless REST API dengan **AWS Lambda**, **API Gateway**, dan **DynamoDB** 
-yang berjalan sepenuhnya di lingkungan lokal menggunakan **MiniStack**.
+MINISTACK SERVERLESS API
+
+Serverless REST API dengan AWS Lambda, API Gateway, dan DynamoDB 
+yang berjalan sepenuhnya di lingkungan lokal menggunakan MiniStack.
 
 Fitur
 - ✅ Create item (POST)
@@ -49,6 +50,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 PEMBUAT :
-NAMA : KHOIRULLAH
-NIM : 32602500067
+KHOIRULLAH
+/ 32602500067 /
 untuk memenuhi tugas mata kuliah Cloud Computing
