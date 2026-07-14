@@ -30,7 +30,7 @@ LICENSE
 txt
 MIT License
 
-Copyright (c) 2026 [Nama Anda]
+Copyright (c) 2026 [KHOIRULLAH]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
